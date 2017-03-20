@@ -1,0 +1,19 @@
+{
+  "name": "toolbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "console.log('test command');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nl-/toolbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nl-/toolbot/issues"
+  },
+  "homepage": "https://github.com/nl-/toolbot#readme"
+}
